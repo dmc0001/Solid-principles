@@ -7,4 +7,4 @@ In software engineering, SOLID is a mnemonic acronym for five design principles 
 - The interface segregation principle: "Clients should not be forced to depend upon interfaces that they do not use."
 - The dependency inversion principle: "Depend upon abstractions, [not] concretions."
 
- ![](https://www.brahmatechnolab.com/%EF%BF%BCwhat-are-solid-principles-a-complete-guide-about-it/)
+ ![](https://www.brahmatechnolab.com/wp-content/uploads/2022/03/1_OzwARbvHUg1RlZ7LYyLCrg.png)
