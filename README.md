@@ -6,3 +6,5 @@ In software engineering, SOLID is a mnemonic acronym for five design principles 
 - The Liskov substitution principle: "Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it." See also design by contract.
 - The interface segregation principle: "Clients should not be forced to depend upon interfaces that they do not use."
 - The dependency inversion principle: "Depend upon abstractions, [not] concretions."
+
+ ![](https://www.brahmatechnolab.com/%EF%BF%BCwhat-are-solid-principles-a-complete-guide-about-it/)
