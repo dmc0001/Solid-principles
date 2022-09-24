@@ -9,7 +9,7 @@
 - <b>Class easy to understand : </b> as long the class does only one thing you can understand it very easily and that achieve the 
 - <b>Organized : </b> as long the class is smaller and has a name describing what to do it's easy to know everything about my project.
 
-  <i><b>all of those achieve divide and concur</b></i>
+  <i><b>- All of those achieve divide and concur -</b></i>
 
  >A class should have one, and only one, reason to change.
  
