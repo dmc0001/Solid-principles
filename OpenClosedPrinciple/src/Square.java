@@ -1,4 +1,5 @@
 public class Square extends Shape {
+    // square extends from shape without modification
     private int side;
 
     public int getSide() {
