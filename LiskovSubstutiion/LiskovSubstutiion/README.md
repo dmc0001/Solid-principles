@@ -3,7 +3,7 @@
   If for each object <b>o1</b> of type <i>S</i> there is an object <b>o2</b> of type <i>T</i> such that for all programs <i>P</i> defined in terms of <i>T</i>, the behavior of P is unchanged when <b>o1</b> is substituted for <b>o2</b> then <i>S</i> is a subtype of <i>T</i>.
 
 
- <h1>When Is a Subtype Substitutable for Its Supertype ?</h1>
+## When Is a Subtype Substitutable for Its Supertype ?
 
 A subtype doesn't automatically become substitutable for its supertype. To be substitutable, the subtype must behave like its supertype.
 
