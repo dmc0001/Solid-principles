@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+       
         Rectangel r1 = new Rectangel();
         Rectangel r2 = new Squre();
         r1.setHight(10);
