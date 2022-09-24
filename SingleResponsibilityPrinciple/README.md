@@ -13,8 +13,7 @@
 
  >A class should have one, and only one, reason to change.
  
- ![](https://miro.medium.com/max/1400/1*UhvaCg9qOCYZyDJZh180hQ.png)
- 
+![](https://miro.medium.com/max/1400/1*P3oONz9Da3Tc1w97fMV73Q.png) 
  
 
 ## Getting Started
