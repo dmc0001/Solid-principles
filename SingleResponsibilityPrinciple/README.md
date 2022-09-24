@@ -6,14 +6,16 @@
 
 - <b>Testing : </b>  as long as you have less functionality so few testing cases.
 - <b>Lower coupling : </b>  less functionality then few dependices.
-- <b>Class easy to understand : </b>  as long class do only one thing you can understand it very easly and that achive the clean code.
-- <b>Organized : </b>  as long class is smaller and have name descripe what to do it's easy to know everything about my project.
+- <b>Class easy to understand : </b> as long the class does only one thing you can understand it very easily and that achieve the 
+- <b>Organized : </b> as long the class is smaller and has a name describing what to do it's easy to know everything about my project.
 
-  all of those achive divide and concur
+  <i><b>all of those achieve divide and concur</b></i>
 
  >A class should have one, and only one, reason to change.
  
  ![](https://miro.medium.com/max/1400/1*UhvaCg9qOCYZyDJZh180hQ.png)
+ 
+ 
 
 ## Getting Started
 
