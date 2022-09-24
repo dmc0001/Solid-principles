@@ -1,5 +1,5 @@
 public class InvoiceWorsePractice {
-    // WORSE PRACTICE
+    // Worst practice
     private Book book;
     private int quantity;
     private double discountRate;
