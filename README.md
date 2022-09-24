@@ -12,4 +12,4 @@ In software engineering, <b>SOLID</b> is a mnemonic acronym for five design prin
 
 - <b>The dependency inversion principle: </b>"Depend upon abstractions, [not] concretions."
 
- ![](https://www.brahmatechnolab.com/wp-content/uploads/2022/03/1_OzwARbvHUg1RlZ7LYyLCrg.png)
+ ![](https://miro.medium.com/max/1400/1*wrxj0oBKpA_GXb8LPhXOeg.png)
