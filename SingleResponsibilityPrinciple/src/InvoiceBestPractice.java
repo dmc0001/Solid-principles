@@ -1,4 +1,5 @@
 public class InvoiceBestPractice {
+    //Best practice
     private Book book;
     private int quantity;
     private double discountRate;
