@@ -9,7 +9,9 @@ but not modified.
 - Changing : the current behaviour of a Class will affect all the systems using that Class
 - Adding : If you want the Class to perform more functions, the ideal approach is to add to the functions that already exist NOT change them.
 
- > all of those achive This aims to extend a Class’s behaviour without changing the existing behaviour of that Class. This is to avoid causing bugs wherever the Class is being used.
+ - All of those achive This aims to extend a Class’s behaviour without changing the existing behaviour of that Class. This is to avoid causing bugs wherever the Class is being used -
+ 
+ > Subtypes must be substitutable for their base types.
  
 ![](https://miro.medium.com/max/828/1*0MtFBmm6L2WVM04qCJOZPQ.png)
 
