@@ -1,6 +1,6 @@
 # Solid-principles
 
-In software engineering, <b>SOLID</b> is a mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor <b>Robert C. Martin</b>, The <b>SOLID</b> 
+In software engineering, <b>SOLID</b> is a mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor <b>Robert C. Martin</b>. 
 
 ## What are the SOLID principles?
 
